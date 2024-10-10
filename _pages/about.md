@@ -11,11 +11,11 @@ I'm a first year graduate sutdent from [School of Software](https://ruanjian.nwp
 
 Educational Background
 ------
-| Northwestern Polytechnical University| Software Engineering | 2024.9-2027.7 | 
+| Northwestern Polytechnical University | Software Engineering | 2024.9-2027.7 |<br>
 
 TO BE CONTINUED... 
 
-| ZhengZhou University | Software Engineering | 211、Double first-class B university | 2020.9-2024.7 | <br>
+| ZhengZhou University | Software Engineering | 2020.9-2024.7 | <br>
 **Major Courses:** Probability Theory and Mathematical Statistics(97)、College Physics A(97)、Data Structure and Algorithm Analysis（97）、Advanced Language Program Design(96)、Introduction to Computer System(96)、Principles and Technology of Computer Network(98)、	Operating System(98)、Compiler Technology(95)  
 **GPA：** `3.87/4.0`  (rank:`2/53`）  
 
