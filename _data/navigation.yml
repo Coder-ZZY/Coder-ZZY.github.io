@@ -15,8 +15,8 @@ main:
   - title: "Contact"
     url: /contact/
   
-  - title: "Other links"
-    url: /links/
-  
   - title: "Blogs"
     url: /year-archive/
+
+  - title: "Other links"
+    url: /links/
