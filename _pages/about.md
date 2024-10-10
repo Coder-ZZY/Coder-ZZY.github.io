@@ -16,7 +16,9 @@ Educational Background
 TO BE CONTINUED... 
 
 | ZhengZhou University | Software Engineering | 2020.9-2024.7 | <br>
+
 **Major Courses:** Probability Theory and Mathematical Statistics(97)、College Physics A(97)、Data Structure and Algorithm Analysis（97）、Advanced Language Program Design(96)、Introduction to Computer System(96)、Principles and Technology of Computer Network(98)、	Operating System(98)、Compiler Technology(95)  
+
 **GPA：** `3.87/4.0`  (rank:`2/53`）  
 
 Campus/Project Experience
