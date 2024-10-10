@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth year undergraduate student from [School of CSAI、SE](http://www7.zzu.edu.cn/csai/), [ZhengZhou University](http://www.zzu.edu.cn/). My research interest includes **natural language processing，computer vision, computer graphics and machine learning**.    
-Now, I'm working as an intern in [ICT](http://www.ict.ac.cn/) and conducting research on geometry learning in [Mr. Gao Lin's](https://people.ucas.edu.cn/~ict_gaolin) project team.
+I'm a first year graduate sutdent from (School of Software)[https://ruanjian.nwpu.edu.cn/], (Northwestern Polytechnical University)[https://www.nwpu.edu.cn].
 
 Educational Background
 ------
+| Northwestern Polytechnical University| Software Engineering | 2024.9-2027.7 |
+TO BE CONTINUED...
 | ZhengZhou University | Software Engineering | 211、Double first-class B university | 2020.9-2024.7 | 
 
 **Major Courses:** Probability Theory and Mathematical Statistics(97)、College Physics A(97)、Data Structure and Algorithm Analysis（97）、Advanced Language Program Design(96)、Introduction to Computer System(96)、Principles and Technology of Computer Network(98)、	Operating System(98)、Compiler Technology(95)  
@@ -36,11 +37,9 @@ CET4:548&emsp;&emsp;&emsp;&emsp;&emsp;CET6:493
 
 Personal Honor
 ------
-- First-class Scholarship for Excellent Student of Zhengzhou University in 2023
+- First-class Scholarship for Excellent Student of Zhengzhou University in 2023， 2021
 - 2022 National Inspirational Scholarship
-- Merit Student of Zhengzhou University 2022
-- First-class Scholarship for Excellent Student of Zhengzhou University in 2021
-- Merit Student of Zhengzhou University 2021
+- Merit Student of Zhengzhou University 2023，2022，2021
 
 
 
