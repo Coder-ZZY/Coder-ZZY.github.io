@@ -6,10 +6,7 @@ author_profile: true
 ---
 
 ## Email:
-iezhiyangzhou@[163,gmail,qq].com <br>
-zhiyangzhou_zzu@163.com
+zhouzhiyang2024@mail.nwpu.edu.cn
 
 ## Address:
-**My School's Address：** No.100, Kexuedadao Road, Zhengzhou City, Henan Province, China <br>
-【Now, I'm working at ICT as an intern student.】 <br>
-**Working Address:** ICT's Loongson Park, No. 158, Wensong Road, Haidian District, Beijing, China
+Chang'an campus of Northwestern Polytechnical University ADD: 1 Dongxiang Road, Chang'an District, Xi'an Shaanxi,710129, P.R.China.
