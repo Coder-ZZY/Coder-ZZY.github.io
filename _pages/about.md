@@ -11,12 +11,11 @@ I'm a second year graduate sutdent from [School of Software](https://ruanjian.nw
 
 Educational Background
 ------
-| Northwestern Polytechnical University | Software Engineering | 2024.9-2027.7 |<br>
-**Purging Label Noise Contamination: A Collaborative Dual-Network with Progressive Learning for Noisy Weakly-Supervised Anomaly Detection**
-
+| Northwestern Polytechnical University | Software Engineering | 2024.9-2027.7 |<br><br>
+ **Purging Label Noise Contamination: A Collaborative Dual-Network with Progressive Learning for Noisy Weakly-Supervised Anomaly Detection**
  CPN-Net, a novel framework for weakly-supervised anomaly detection (WSAD) under noisy label environments. CPN-Net leverages a collaborative dual-network structure and a progressive learning strategy to purify noisy supervision and improve detection performance.
+![Overview of our CPN-Net](../images/CPN-Net.png)<br><br>
 
-![Overview of our CPN-Net](../images/CPN-Net.png)
 | ZhengZhou University | Software Engineering | 2020.9-2024.7 | <br><br>
 **Major Courses:** Probability Theory and Mathematical Statistics(97)、College Physics A(97)、Data Structure and Algorithm Analysis（97）、Advanced Language Program Design(96)、Introduction to Computer System(96)、Principles and Technology of Computer Network(98)、	Operating System(98)、Compiler Technology(95)<br><br>
 **GPA：** `3.87/4.0`  (rank:`2/53`）  
